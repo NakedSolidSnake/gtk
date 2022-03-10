@@ -54,6 +54,7 @@ $ ./application
 ```
 
 ## 01-window
+![01-window](docs/01-window.png)
 Neste exemplo é apresentado a criação de uma tela que é usado como template para os demais
 exemplos. 
 
